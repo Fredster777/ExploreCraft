@@ -1,0 +1,15 @@
+package net.explorecraft.mod;
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.EventHandler;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+
+@Mod(modid = ExploreCraft.modid, name = "ExploreCraft", version = "v1.0")
+public class ExploreCraft {
+	
+	public static final String modid = "explorecraft";
+	
+	@EventHandler
+	public void load(FMLInitializationEvent e);
+
+}

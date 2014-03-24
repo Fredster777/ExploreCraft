@@ -1,0 +1,5 @@
+package net.explorecraft.mod.block;
+
+public class BlockMudBlock {
+
+}

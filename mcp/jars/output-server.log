@@ -1,0 +1,68 @@
+2014-03-24 20:59:27 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2014-03-24 20:59:27 [SERVER] [INFO] Generating keypair
+2014-03-24 20:59:28 [SERVER] [INFO] Converting map!
+2014-03-24 20:59:28 [SERVER] [INFO] Scanning folders...
+2014-03-24 20:59:28 [SERVER] [INFO] Total conversion count is 0
+2014-03-24 20:59:28 [SERVER] [INFO] Preparing start region for level 0
+2014-03-24 20:59:30 [SERVER] [INFO] Preparing spawn area: 4%
+2014-03-24 20:59:31 [SERVER] [INFO] Preparing spawn area: 7%
+2014-03-24 20:59:32 [SERVER] [INFO] Preparing spawn area: 13%
+2014-03-24 20:59:33 [SERVER] [INFO] Preparing spawn area: 23%
+2014-03-24 20:59:34 [SERVER] [INFO] Preparing spawn area: 35%
+2014-03-24 20:59:35 [SERVER] [INFO] Preparing spawn area: 46%
+2014-03-24 20:59:36 [SERVER] [INFO] Preparing spawn area: 57%
+2014-03-24 20:59:37 [SERVER] [INFO] Preparing spawn area: 68%
+2014-03-24 20:59:38 [SERVER] [INFO] Preparing spawn area: 81%
+2014-03-24 20:59:39 [SERVER] [INFO] Preparing spawn area: 93%
+2014-03-24 20:59:40 [SERVER] [INFO] Player860[/127.0.0.1:0] logged in with entity id 202 at (214.5, 71.0, 147.5)
+2014-03-24 20:59:40 [SERVER] [INFO] Player860 joined the game
+2014-03-24 20:59:45 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-03-24 20:59:56 [SERVER] [INFO] Saving and pausing game...
+2014-03-24 20:59:56 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/Overworld
+2014-03-24 20:59:57 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/Nether
+2014-03-24 20:59:57 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/The End
+2014-03-24 20:59:57 [SERVER] [INFO] Stopping server
+2014-03-24 20:59:57 [SERVER] [INFO] Saving players
+2014-03-24 20:59:57 [SERVER] [INFO] Player860 left the game
+2014-03-24 20:59:57 [SERVER] [INFO] Saving worlds
+2014-03-24 20:59:57 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/Overworld
+2014-03-24 20:59:57 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/Nether
+2014-03-24 20:59:57 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/The End
+2014-03-24 21:02:26 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2014-03-24 21:02:26 [SERVER] [INFO] Generating keypair
+2014-03-24 21:02:27 [SERVER] [INFO] Preparing start region for level 0
+2014-03-24 21:02:28 [SERVER] [INFO] Preparing spawn area: 66%
+2014-03-24 21:02:29 [SERVER] [INFO] Player468[/127.0.0.1:0] logged in with entity id 407 at (214.5, 71.0, 147.5)
+2014-03-24 21:02:29 [SERVER] [INFO] Player468 joined the game
+2014-03-24 21:02:31 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-03-24 21:02:46 [SERVER] [INFO] Saving and pausing game...
+2014-03-24 21:02:46 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/Overworld
+2014-03-24 21:02:46 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/Nether
+2014-03-24 21:02:46 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/The End
+2014-03-24 21:02:47 [SERVER] [INFO] Player468 lost connection: disconnect.quitting
+2014-03-24 21:02:47 [SERVER] [INFO] Player468 left the game
+2014-03-24 21:02:47 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2014-03-24 21:02:47 [SERVER] [INFO] Stopping server
+2014-03-24 21:02:47 [SERVER] [INFO] Saving players
+2014-03-24 21:02:47 [SERVER] [INFO] Saving worlds
+2014-03-24 21:02:47 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/Overworld
+2014-03-24 21:02:47 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/Nether
+2014-03-24 21:02:47 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/The End
+2014-03-24 21:10:08 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2014-03-24 21:10:08 [SERVER] [INFO] Generating keypair
+2014-03-24 21:10:09 [SERVER] [INFO] Preparing start region for level 0
+2014-03-24 21:10:10 [SERVER] [INFO] Preparing spawn area: 60%
+2014-03-24 21:10:11 [SERVER] [INFO] Player582[/127.0.0.1:0] logged in with entity id 387 at (208.70199160178535, 74.0, 130.31300915694894)
+2014-03-24 21:10:11 [SERVER] [INFO] Player582 joined the game
+2014-03-24 21:10:15 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-03-24 21:10:40 [SERVER] [INFO] Saving and pausing game...
+2014-03-24 21:10:40 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/Overworld
+2014-03-24 21:10:41 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/Nether
+2014-03-24 21:10:41 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/The End
+2014-03-24 21:10:41 [SERVER] [INFO] Stopping server
+2014-03-24 21:10:41 [SERVER] [INFO] Saving players
+2014-03-24 21:10:41 [SERVER] [INFO] Player582 left the game
+2014-03-24 21:10:41 [SERVER] [INFO] Saving worlds
+2014-03-24 21:10:41 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/Overworld
+2014-03-24 21:10:41 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/Nether
+2014-03-24 21:10:41 [SERVER] [INFO] Saving chunks for level 'Blocks Test'/The End
