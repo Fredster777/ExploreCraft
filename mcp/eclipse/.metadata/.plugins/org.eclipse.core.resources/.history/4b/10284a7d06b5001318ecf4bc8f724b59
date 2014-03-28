@@ -1,0 +1,11 @@
+package net.explorecraft.mod.item;
+
+import net.minecraft.item.Item;
+
+public class ItemMysticPowder extends Item{
+
+	public ItemMysticPowder(int par1) {
+		super(par1);
+	}
+
+}

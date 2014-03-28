@@ -1,0 +1,14 @@
+package net.explorecraft.mod.biome;
+
+import net.explorecraft.mod.ExploreCraft;
+import net.minecraft.world.biome.BiomeGenBase;
+
+public class BiomeForestMuddy extends BiomeGenBase{
+
+	public BiomeForestMuddy(int par1) {
+		super(par1);
+		this.topBlock = (byte)ExploreCraft.blockMud.blockID;
+		this.fillerBlock = (byte)ExploreCraft.blockMud.blockID;
+	}
+
+}

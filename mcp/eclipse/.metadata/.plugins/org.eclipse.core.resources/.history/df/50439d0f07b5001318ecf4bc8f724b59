@@ -1,0 +1,11 @@
+package net.explorecraft.mod.biome;
+
+import net.minecraft.world.biome.BiomeGenBase;
+
+public class BiomeForestMuddy extends BiomeGenBase{
+
+	public BiomeForestMuddy(int par1) {
+		super(par1);
+	}
+
+}

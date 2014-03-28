@@ -30,3 +30,56 @@
 2014-03-24 21:10:05 [CLIENT] [SEVERE] 1281: Invalid value
 2014-03-24 21:10:06 [CLIENT] [SEVERE] Realms: Server not available!
 2014-03-24 21:10:43 [CLIENT] [INFO] Stopping!
+2014-03-25 17:51:40 [CLIENT] [INFO] Setting user: Player983
+2014-03-25 17:51:42 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-25 17:51:44 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-25 17:51:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-25 17:51:53 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-25 17:51:54 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-03-25 17:51:54 [CLIENT] [SEVERE] @ Post startup
+2014-03-25 17:51:54 [CLIENT] [SEVERE] 1281: Invalid value
+2014-03-25 17:52:03 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-25 17:52:40 [CLIENT] [INFO] Stopping!
+2014-03-26 17:56:00 [CLIENT] [INFO] Setting user: Player566
+2014-03-26 17:56:03 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-26 17:56:04 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-26 17:56:10 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-26 17:56:13 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-26 17:56:13 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-03-26 17:56:13 [CLIENT] [SEVERE] @ Post startup
+2014-03-26 17:56:13 [CLIENT] [SEVERE] 1281: Invalid value
+2014-03-26 17:56:20 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-26 17:58:21 [CLIENT] [INFO] Stopping!
+2014-03-26 17:58:27 [CLIENT] [INFO] Setting user: Player981
+2014-03-26 17:58:29 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-26 17:58:29 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-26 17:58:33 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-26 17:58:36 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-26 17:58:36 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-03-26 17:58:36 [CLIENT] [SEVERE] @ Post startup
+2014-03-26 17:58:36 [CLIENT] [SEVERE] 1281: Invalid value
+2014-03-26 17:58:38 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-26 18:00:11 [CLIENT] [INFO] Stopping!
+2014-03-28 16:16:03 [CLIENT] [INFO] Setting user: Player743
+2014-03-28 16:16:06 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-28 16:16:07 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-28 16:16:16 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-28 16:16:18 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-28 16:16:18 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-03-28 16:16:18 [CLIENT] [SEVERE] @ Post startup
+2014-03-28 16:16:18 [CLIENT] [SEVERE] 1281: Invalid value
+2014-03-28 16:16:22 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-28 16:18:21 [CLIENT] [INFO] Stopping!
+2014-03-28 16:35:30 [CLIENT] [INFO] Setting user: Player602
+2014-03-28 16:35:32 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-28 16:35:34 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-28 16:35:41 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-28 16:35:42 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-28 16:35:43 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_202_explorecraft:textures/blocks/blockCedarLeaves.png
+2014-03-28 16:35:43 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_203_explorecraft:textures/blocks/blockCedarSapling.png
+2014-03-28 16:35:43 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_201_explorecraft:textures/blocks/blockCedarLog.png
+2014-03-28 16:35:43 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-03-28 16:35:43 [CLIENT] [SEVERE] @ Post startup
+2014-03-28 16:35:43 [CLIENT] [SEVERE] 1281: Invalid value
+2014-03-28 16:35:46 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-28 16:36:37 [CLIENT] [INFO] Stopping!

@@ -1,0 +1,55 @@
+package net.explorecraft.mod;
+
+import net.explorecraft.mod.biome.BiomeForestMuddy;
+import net.explorecraft.mod.block.BlockMudBlock;
+import net.minecraft.block.Block;
+import net.minecraft.item.Item;
+import net.minecraft.world.biome.BiomeGenBase;
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.EventHandler;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.network.NetworkMod;
+import cpw.mods.fml.common.registry.GameRegistry;
+import cpw.mods.fml.common.registry.LanguageRegistry;
+
+//Basic info for mod
+@Mod(modid = "ExploreCraft", name = "ExploreCraft", version = "v1.0")
+
+//Client and Server Side requirements
+@NetworkMod(clientSideRequired = true, serverSideRequired = false)
+
+public class ExploreCraft {
+	
+	//Define blocks
+	public static Block blockMud;
+	
+	//Define items
+	
+	//Define biomes
+	public static BiomeGenBase forestMuddy;
+	
+	//Define dimensions
+	
+	@EventHandler
+	public void load(FMLInitializationEvent e) {
+		
+		//Settings for blocks
+		blockMud = new BlockMudBlock(200).setUnlocalizedName("ExploreCraft:blockMud");
+		
+		//Settings for items
+		
+		//Settings for biomes
+		forestMuddy = new BiomeForestMuddy(100).setBiomeName("Muddy Forest").setMinMaxHeight(0.3F, 0.6F);
+		
+		//Register blocks
+		GameRegistry.registerBlock(blockMud, "blockMud");
+		LanguageRegistry.addName(blockMud, "Mud");
+		
+		//Register items
+		
+		//Register biomes
+		GameRegistry.addBiome(forestMuddy);
+		
+	}
+
+}

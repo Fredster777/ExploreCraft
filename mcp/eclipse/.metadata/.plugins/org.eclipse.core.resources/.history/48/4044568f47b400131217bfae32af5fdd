@@ -1,0 +1,12 @@
+package net.explorecraft.mod.block;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+
+public class BlockTeleporterBlock extends Block{
+
+	public BlockTeleporterBlock(int par1, Material par2Material) {
+		super(par1, par2Material);
+	}
+
+}

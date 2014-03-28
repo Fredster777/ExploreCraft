@@ -1,0 +1,7 @@
+package net.explorecraft.mod.item;
+
+import net.minecraft.item.Item;
+
+public class ItemMysticPowder extends Item{
+
+}
