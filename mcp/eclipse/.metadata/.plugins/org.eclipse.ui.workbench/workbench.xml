@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="29" version="2.0">
+<workbench progressCount="58" version="2.0">
 <workbenchAdvisor/>
 <window height="1142" maximized="true" width="1920" x="46" y="22">
 <fastViewData fastViewLocation="1024"/>
@@ -39,21 +39,21 @@
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ExploreCraft.java" partName="ExploreCraft.java" path="/Users/freddie/Desktop/ExploreCraft/mcp/src/minecraft/net/explorecraft/mod/ExploreCraft.java" title="ExploreCraft.java" tooltip="Minecraft/src/net/explorecraft/mod/ExploreCraft.java" workbook="DefaultEditorWorkbook">
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ExploreCraft.java" partName="ExploreCraft.java" path="/Users/freddie/Desktop/ExploreCraft/mcp/src/minecraft/net/explorecraft/mod/ExploreCraft.java" title="ExploreCraft.java" tooltip="Minecraft/src/net/explorecraft/mod/ExploreCraft.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Minecraft/src/net/explorecraft/mod/ExploreCraft.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="131" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2260" selectionTopPixel="305"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BlockMudBlock.java" partName="BlockMudBlock.java" path="/Users/freddie/Desktop/ExploreCraft/mcp/src/minecraft/net/explorecraft/mod/block/BlockMudBlock.java" title="BlockMudBlock.java" tooltip="Minecraft/src/net/explorecraft/mod/block/BlockMudBlock.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Minecraft/src/net/explorecraft/mod/block/BlockMudBlock.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="450" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BlockCedarLeaves.java" partName="BlockCedarLeaves.java" path="/Users/freddie/Desktop/ExploreCraft/mcp/src/minecraft/net/explorecraft/mod/block/BlockCedarLeaves.java" title="BlockCedarLeaves.java" tooltip="Minecraft/src/net/explorecraft/mod/block/BlockCedarLeaves.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Minecraft/src/net/explorecraft/mod/block/BlockCedarLeaves.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="375" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BiomeForestMuddy.java" partName="BiomeForestMuddy.java" path="/Users/freddie/Desktop/ExploreCraft/mcp/src/minecraft/net/explorecraft/mod/biome/BiomeForestMuddy.java" title="BiomeForestMuddy.java" tooltip="Minecraft/src/net/explorecraft/mod/biome/BiomeForestMuddy.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Minecraft/src/net/explorecraft/mod/biome/BiomeForestMuddy.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="548" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BlockCedarSapling.java" partName="BlockCedarSapling.java" path="/Users/freddie/Desktop/ExploreCraft/mcp/src/minecraft/net/explorecraft/mod/block/BlockCedarSapling.java" title="BlockCedarSapling.java" tooltip="Minecraft/src/net/explorecraft/mod/block/BlockCedarSapling.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Minecraft/src/net/explorecraft/mod/block/BlockCedarSapling.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="383" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BiomeGenBase.java" partName="BiomeGenBase.java" path="/Users/freddie/Desktop/ExploreCraft/mcp/src/minecraft/net/minecraft/world/biome/BiomeGenBase.java" title="BiomeGenBase.java" tooltip="Minecraft/src/net/minecraft/world/biome/BiomeGenBase.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Minecraft/src/net/minecraft/world/biome/BiomeGenBase.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="17" selectionOffset="6856" selectionTopPixel="1151"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BlockCedarLog.java" partName="BlockCedarLog.java" path="/Users/freddie/Desktop/ExploreCraft/mcp/src/minecraft/net/explorecraft/mod/blocks/BlockCedarLog.java" title="BlockCedarLog.java" tooltip="Minecraft/src/net/explorecraft/mod/blocks/BlockCedarLog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Minecraft/src/net/explorecraft/mod/blocks/BlockCedarLog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="370" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -211,167 +211,164 @@
 <navigationHistory>
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/explorecraft/mod/ExploreCraft.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/explorecraft/mod/block/BlockMysticBlock.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/explorecraft/mod/block/BlockTeleporterBlock.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/explorecraft/mod/block/BlockMudBlock.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/explorecraft/mod/item/ItemMysticPowder.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/minecraft/block/BlockPortal.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/explorecraft/mod/biome/BiomeForestMuddy.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/explorecraft/mod/block/BlockCedarLog.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/explorecraft/mod/block/BlockMud.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/minecraft/world/biome/BiomeGenBase.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/explorecraft/mod/block/BlockMysticBlock.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/minecraft/block/BlockPortal.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/explorecraft/mod/biome/BiomeForestMuddy.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/minecraft/world/biome/BiomeGenBase.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/explorecraft/mod/block/BlockCedarLeaves.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/explorecraft/mod/block/BlockCedarSapling.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/minecraft/block/BlockLog.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/minecraft/block/BlockLeaves.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/explorecraft/mod/blocks/BlockCedarLog.java"/>
 </editors>
-<item historyLabel="BlockMysticBlock.java" index="1">
-<position info="not_deleted" x="228" y="0"/>
+<item historyLabel="BlockCedarSapling.java" index="5">
+<position info="not_deleted" x="383" y="0"/>
 </item>
 <item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="1548" y="0"/>
+<position info="not_deleted" x="1720" y="0"/>
 </item>
-<item historyLabel="BlockMysticBlock.java" index="1">
-<position info="not_deleted" x="228" y="0"/>
+<item historyLabel="BlockLog.java" index="6">
+<position info="not_deleted" x="0" y="4212"/>
 </item>
-<item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="1548" y="0"/>
+<item historyLabel="BlockCedarLog.java" index="1">
+<position info="not_deleted" x="445" y="0"/>
 </item>
-<item historyLabel="BlockMysticBlock.java" index="1">
-<position info="not_deleted" x="228" y="0"/>
+<item historyLabel="BlockCedarLog.java" index="1">
+<position/>
 </item>
-<item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="1548" y="0"/>
+<item historyLabel="BlockCedarLog.java" index="1">
+<position/>
 </item>
-<item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="1855" y="0"/>
-</item>
-<item historyLabel="ItemMysticPowder.java" index="4">
-<position info="not_deleted" x="165" y="0"/>
+<item historyLabel="BlockCedarLog.java" index="1">
+<position info="not_deleted" x="4044" y="0"/>
 </item>
 <item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="1855" y="0"/>
+<position info="not_deleted" x="1720" y="0"/>
 </item>
-<item historyLabel="ItemMysticPowder.java" index="4">
-<position info="not_deleted" x="165" y="0"/>
-</item>
-<item historyLabel="BlockTeleporterBlock.java" index="2">
-<position info="not_deleted" x="488" y="0"/>
-</item>
-<item historyLabel="BlockMysticBlock.java" index="1">
-<position info="not_deleted" x="228" y="0"/>
-</item>
-<item historyLabel="BlockMudBlock.java" index="3">
-<position info="not_deleted" x="450" y="0"/>
+<item historyLabel="BlockCedarLog.java" index="1">
+<position info="not_deleted" x="645" y="0"/>
 </item>
 <item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="1855" y="0"/>
+<position info="not_deleted" x="2391" y="0"/>
 </item>
-<item historyLabel="BlockTeleporterBlock.java" index="2">
-<position info="not_deleted" x="488" y="0"/>
-</item>
-<item historyLabel="BlockTeleporterBlock.java" index="2">
-<position info="not_deleted" x="1620" y="0"/>
-</item>
-<item historyLabel="BlockTeleporterBlock.java" index="2">
-<position info="not_deleted" x="567" y="6"/>
-</item>
-<item historyLabel="BlockTeleporterBlock.java" index="2">
-<position info="not_deleted" x="1509" y="0"/>
-</item>
-<item historyLabel="BlockPortal.java" index="5">
-<position info="not_deleted" x="5411" y="90"/>
-</item>
-<item historyLabel="BlockTeleporterBlock.java" index="2">
-<position info="not_deleted" x="1509" y="0"/>
-</item>
-<item historyLabel="BlockTeleporterBlock.java" index="2">
-<position info="not_deleted" x="771" y="0"/>
-</item>
-<item historyLabel="BlockTeleporterBlock.java" index="2">
-<position info="not_deleted" x="1418" y="0"/>
-</item>
-<item historyLabel="BlockTeleporterBlock.java" index="2">
-<position info="not_deleted" x="1414" y="0"/>
+<item historyLabel="BlockCedarLog.java" index="1">
+<position info="not_deleted" x="561" y="0"/>
 </item>
 <item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="1228" y="0"/>
+<position info="not_deleted" x="2391" y="0"/>
 </item>
-<item historyLabel="BlockTeleporterBlock.java" index="2">
-<position info="not_deleted" x="1027" y="0"/>
+<item historyLabel="BlockLeaves.java" index="7">
+<position info="not_deleted" x="0" y="15816"/>
 </item>
-<item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="1228" y="0"/>
+<item historyLabel="BlockLog.java" index="6">
+<position info="not_deleted" x="0" y="4212"/>
 </item>
-<item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="1853" y="0"/>
+<item historyLabel="BlockCedarSapling.java" index="5">
+<position info="not_deleted" x="383" y="0"/>
 </item>
-<item historyLabel="BiomeForestMuddy.java" index="6">
-<position info="not_deleted" x="189" y="0"/>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position info="not_deleted" x="1375" y="0"/>
 </item>
-<item historyLabel="BiomeGenBase.java" index="7">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position/>
 </item>
-<item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="1855" y="0"/>
-</item>
-<item historyLabel="BiomeGenBase.java" index="7">
-<position info="not_deleted" x="11038" y="0"/>
-</item>
-<item historyLabel="BlockMudBlock.java" index="3">
-<position info="not_deleted" x="450" y="0"/>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position/>
 </item>
 <item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="1855" y="0"/>
+<position info="not_deleted" x="2391" y="0"/>
 </item>
-<item historyLabel="BlockMysticBlock.java" index="8">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="1376" y="0"/>
-</item>
-<item historyLabel="BlockPortal.java" index="9">
-<position info="not_deleted" x="5411" y="90"/>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position/>
 </item>
 <item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="1376" y="0"/>
+<position info="not_deleted" x="2391" y="0"/>
 </item>
-<item historyLabel="BiomeForestMuddy.java" index="10">
-<position info="not_deleted" x="548" y="0"/>
-</item>
-<item historyLabel="BiomeGenBase.java" index="11">
-<position info="not_deleted" x="11038" y="0"/>
-</item>
-<item historyLabel="BiomeForestMuddy.java" index="10">
-<position info="not_deleted" x="548" y="0"/>
-</item>
-<item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="82" y="0"/>
-</item>
-<item historyLabel="BiomeForestMuddy.java" index="10">
-<position info="not_deleted" x="548" y="0"/>
-</item>
-<item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="131" y="0"/>
-</item>
-<item historyLabel="BiomeForestMuddy.java" index="10">
-<position info="not_deleted" x="548" y="0"/>
-</item>
-<item historyLabel="BiomeGenBase.java" index="11">
+<item historyLabel="BiomeGenBase.java" index="3">
 <position info="not_deleted" x="6856" y="17"/>
 </item>
-<item historyLabel="BiomeGenBase.java" index="11">
-<position info="not_deleted" x="13613" y="21"/>
+<item historyLabel="ExploreCraft.java" index="0">
+<position info="not_deleted" x="2391" y="0"/>
 </item>
-<item historyLabel="BiomeGenBase.java" index="11">
-<position info="not_deleted" x="6856" y="17"/>
-</item>
-<item historyLabel="BiomeForestMuddy.java" index="10">
-<position info="not_deleted" x="548" y="0"/>
+<item historyLabel="BlockMud.java" index="2">
+<position info="not_deleted" x="398" y="0"/>
 </item>
 <item historyLabel="ExploreCraft.java" index="0">
-<position info="not_deleted" x="131" y="0"/>
+<position info="not_deleted" x="2391" y="0"/>
 </item>
-<item active="true" historyLabel="BiomeForestMuddy.java" index="10">
-<position info="not_deleted" x="548" y="0"/>
+<item historyLabel="BlockLog.java" index="6">
+<position info="not_deleted" x="0" y="4212"/>
+</item>
+<item historyLabel="BlockCedarSapling.java" index="5">
+<position info="not_deleted" x="383" y="0"/>
+</item>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position/>
+</item>
+<item historyLabel="ExploreCraft.java" index="0">
+<position info="not_deleted" x="2260" y="0"/>
+</item>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position/>
+</item>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position/>
+</item>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position/>
+</item>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position/>
+</item>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position/>
+</item>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position info="not_deleted" x="13268" y="0"/>
+</item>
+<item historyLabel="ExploreCraft.java" index="0">
+<position info="not_deleted" x="2260" y="0"/>
+</item>
+<item historyLabel="BlockCedarLog.java" index="1">
+<position info="not_deleted" x="36" y="0"/>
+</item>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position info="not_deleted" x="66" y="0"/>
+</item>
+<item historyLabel="BlockCedarLog.java" index="1">
+<position info="not_deleted" x="36" y="0"/>
+</item>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position info="not_deleted" x="6" y="0"/>
+</item>
+<item historyLabel="ExploreCraft.java" index="0">
+<position info="not_deleted" x="2260" y="0"/>
+</item>
+<item historyLabel="BlockCedarLog.java" index="8">
+<position info="not_deleted" x="191" y="0"/>
+</item>
+<item historyLabel="BlockCedarSapling.java" index="5">
+<position info="not_deleted" x="383" y="0"/>
+</item>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position info="not_deleted" x="6" y="0"/>
+</item>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position info="not_deleted" x="375" y="0"/>
+</item>
+<item historyLabel="ExploreCraft.java" index="0">
+<position info="not_deleted" x="2260" y="0"/>
+</item>
+<item historyLabel="BlockCedarLeaves.java" index="4">
+<position info="not_deleted" x="375" y="0"/>
+</item>
+<item historyLabel="BlockCedarLog.java" index="8">
+<position info="not_deleted" x="191" y="0"/>
+</item>
+<item historyLabel="BlockCedarLog.java" index="8">
+<position info="not_deleted" x="370" y="0"/>
+</item>
+<item active="true" historyLabel="ExploreCraft.java" index="0">
+<position info="not_deleted" x="2260" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -379,9 +376,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="topLeft"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 <trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
@@ -394,6 +388,27 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BlockCedarLog.java" tooltip="Minecraft/src/net/explorecraft/mod/blocks/BlockCedarLog.java">
+<persistable path="/Minecraft/src/net/explorecraft/mod/blocks/BlockCedarLog.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BlockLeaves.java" tooltip="Minecraft/src/net/minecraft/block/BlockLeaves.java">
+<persistable path="/Minecraft/src/net/minecraft/block/BlockLeaves.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BlockLog.java" tooltip="Minecraft/src/net/minecraft/block/BlockLog.java">
+<persistable path="/Minecraft/src/net/minecraft/block/BlockLog.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BlockCedarSapling.java" tooltip="Minecraft/src/net/explorecraft/mod/block/BlockCedarSapling.java">
+<persistable path="/Minecraft/src/net/explorecraft/mod/block/BlockCedarSapling.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BlockCedarLeaves.java" tooltip="Minecraft/src/net/explorecraft/mod/block/BlockCedarLeaves.java">
+<persistable path="/Minecraft/src/net/explorecraft/mod/block/BlockCedarLeaves.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BlockMud.java" tooltip="Minecraft/src/net/explorecraft/mod/block/BlockMud.java">
+<persistable path="/Minecraft/src/net/explorecraft/mod/block/BlockMud.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BlockCedarLog.java" tooltip="Minecraft/src/net/explorecraft/mod/block/BlockCedarLog.java">
+<persistable path="/Minecraft/src/net/explorecraft/mod/block/BlockCedarLog.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BiomeGenBase.java" tooltip="Minecraft/src/net/minecraft/world/biome/BiomeGenBase.java">
 <persistable path="/Minecraft/src/net/minecraft/world/biome/BiomeGenBase.java"/>
 </file>

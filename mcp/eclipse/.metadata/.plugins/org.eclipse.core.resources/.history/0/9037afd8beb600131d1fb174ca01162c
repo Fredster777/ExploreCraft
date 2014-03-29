@@ -1,0 +1,73 @@
+package net.explorecraft.mod;
+
+import net.explorecraft.mod.biome.BiomeForestMuddyCedar;
+import net.explorecraft.mod.block.BlockCedarLeaves;
+import net.explorecraft.mod.block.BlockCedarLog;
+import net.explorecraft.mod.block.BlockCedarSapling;
+import net.explorecraft.mod.block.BlockMud;
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import net.minecraft.world.biome.BiomeGenBase;
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.EventHandler;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.network.NetworkMod;
+import cpw.mods.fml.common.registry.GameRegistry;
+import cpw.mods.fml.common.registry.LanguageRegistry;
+
+//Basic info for mod
+@Mod(modid = "ExploreCraft", name = "ExploreCraft", version = "v1.0")
+
+//Client and Server Side requirements
+@NetworkMod(clientSideRequired = true, serverSideRequired = false)
+
+public class ExploreCraft {
+	
+	//Define blocks
+	public static Block blockMud; 
+	public static Block blockCedarLog;
+	public static Block blockCedarLeaves;
+	public static Block blockCedarSapling;
+	
+	//Define items
+	
+	//Define biomes
+	public static BiomeGenBase forestMuddyCedar;
+	
+	//Define dimensions
+	
+	@EventHandler
+	public void load(FMLInitializationEvent e) {
+		
+		//Settings for blocks
+		blockMud = new BlockMud(200, Material.ground).setUnlocalizedName("ExploreCraft:blockMud");
+		blockCedarLog = new BlockCedarLog(201, Material.wood).setUnlocalizedName("ExploreCraft:blockCedarLog");
+		blockCedarLeaves = new BlockCedarLeaves(202, Material.leaves).setUnlocalizedName("ExploreCraft:blockCedarLeaves");
+		blockCedarSapling = new BlockCedarSapling(203, Material.tnt).setUnlocalizedName("ExploreCraft:blockCedarSapling");
+		
+		//Settings for items
+		
+		//Settings for biomes
+		forestMuddyCedar = new BiomeForestMuddyCedar(100).setBiomeName("Muddy Forest").setMinMaxHeight(0.3F, 0.6F);
+		
+		//Register blocks
+		GameRegistry.registerBlock(blockMud, "blockMud");
+		LanguageRegistry.addName(blockMud, "Mud");
+		
+		GameRegistry.registerBlock(blockCedarLog, "blockCedarLog");
+		LanguageRegistry.addName(blockCedarLog, "Cedar Log");
+		
+		GameRegistry.registerBlock(blockCedarLeaves, "blockCedarLeaves");
+		LanguageRegistry.addName(blockCedarLeaves, "Cedar Leaves");
+		
+		GameRegistry.registerBlock(blockCedarSapling, "blockCedarSapling");
+		LanguageRegistry.addName(blockCedarSapling, "Cedar Sapling");
+		
+		//Register items
+		
+		//Register biomes
+		GameRegistry.addBiome(forestMuddyCedar);
+		
+	}
+
+}

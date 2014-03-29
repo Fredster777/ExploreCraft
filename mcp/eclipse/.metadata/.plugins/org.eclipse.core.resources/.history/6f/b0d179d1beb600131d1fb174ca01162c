@@ -1,0 +1,5 @@
+package net.explorecraft.mod.blocks;
+
+public class BlockCedarLog {
+
+}

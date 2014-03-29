@@ -1,0 +1,16 @@
+package net.explorecraft.mod.biome;
+
+import net.minecraft.world.biome.BiomeGenBase;
+
+public class BiomeForestGiant extends BiomeGenBase {
+
+	public BiomeForestGiant(int par1) {
+		super(par1);
+	}
+	
+	public int getBiomeGrassColor() {
+		
+		return 0x0F8507;
+	}
+
+}

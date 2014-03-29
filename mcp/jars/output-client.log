@@ -83,3 +83,145 @@
 2014-03-28 16:35:43 [CLIENT] [SEVERE] 1281: Invalid value
 2014-03-28 16:35:46 [CLIENT] [SEVERE] Realms: Server not available!
 2014-03-28 16:36:37 [CLIENT] [INFO] Stopping!
+2014-03-29 13:05:05 [CLIENT] [INFO] Setting user: Player683
+2014-03-29 13:05:07 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-29 13:05:08 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-29 13:05:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 13:05:16 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 13:05:16 [CLIENT] [SEVERE] Using missing texture, unable to load: explorecraft:textures/blocks/blockCedarLeaves.png
+2014-03-29 13:05:16 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_203_explorecraft:textures/blocks/blockCedarSapling.png
+2014-03-29 13:05:16 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_201_explorecraft:textures/blocks/blockCedarLog.png
+2014-03-29 13:05:16 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-03-29 13:05:16 [CLIENT] [SEVERE] @ Post startup
+2014-03-29 13:05:16 [CLIENT] [SEVERE] 1281: Invalid value
+2014-03-29 13:05:18 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-29 13:06:00 [CLIENT] [INFO] Stopping!
+2014-03-29 13:07:24 [CLIENT] [INFO] Setting user: Player987
+2014-03-29 13:07:25 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-29 13:07:26 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-29 13:07:30 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 13:07:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 13:07:32 [CLIENT] [SEVERE] Using missing texture, unable to load: explorecraft:textures/blocks/blockCedarLeaves.png
+2014-03-29 13:07:32 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_203_explorecraft:textures/blocks/blockCedarSapling.png
+2014-03-29 13:07:32 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_201_explorecraft:textures/blocks/blockCedarLog.png
+2014-03-29 13:07:32 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-03-29 13:07:32 [CLIENT] [SEVERE] @ Post startup
+2014-03-29 13:07:32 [CLIENT] [SEVERE] 1281: Invalid value
+2014-03-29 13:07:34 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-29 13:09:50 [CLIENT] [INFO] Stopping!
+2014-03-29 13:32:43 [CLIENT] [INFO] Setting user: Player158
+2014-03-29 13:32:44 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-29 13:32:45 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-29 13:32:49 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 13:32:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 13:32:51 [CLIENT] [SEVERE] Using missing texture, unable to load: explorecraft:textures/blocks/blockCedarLeaves.png
+2014-03-29 13:32:51 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_203_explorecraft:textures/blocks/blockCedarSapling.png
+2014-03-29 13:32:51 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_201_explorecraft:textures/blocks/blockCedarLog.png
+2014-03-29 13:32:51 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-03-29 13:32:51 [CLIENT] [SEVERE] @ Post startup
+2014-03-29 13:32:51 [CLIENT] [SEVERE] 1281: Invalid value
+2014-03-29 13:32:52 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-29 13:33:31 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 68 to go!
+2014-03-29 13:36:15 [CLIENT] [INFO] Stopping!
+2014-03-29 13:36:44 [CLIENT] [INFO] Setting user: Player748
+2014-03-29 13:36:45 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-29 13:36:47 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-29 13:36:52 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 13:36:54 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 13:36:54 [CLIENT] [SEVERE] Using missing texture, unable to load: explorecraft:textures/blocks/blockCedarLeaves.png
+2014-03-29 13:36:54 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_203_explorecraft:textures/blocks/blockCedarSapling.png
+2014-03-29 13:36:54 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_201_explorecraft:textures/blocks/blockCedarLog.png
+2014-03-29 13:36:54 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-03-29 13:36:54 [CLIENT] [SEVERE] @ Post startup
+2014-03-29 13:36:54 [CLIENT] [SEVERE] 1281: Invalid value
+2014-03-29 13:36:56 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-29 13:39:53 [CLIENT] [INFO] [CHAT] Given Speed (ID 1) * 200 to Player748 for 200 seconds
+2014-03-29 13:44:17 [CLIENT] [INFO] [CHAT] Given Speed (ID 1) * 200 to Player748 for 200 seconds
+2014-03-29 13:46:21 [CLIENT] [INFO] Stopping!
+2014-03-29 13:47:00 [CLIENT] [INFO] Setting user: Player762
+2014-03-29 13:47:02 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-29 13:47:05 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-29 13:47:13 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 13:47:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 13:47:15 [CLIENT] [SEVERE] Using missing texture, unable to load: explorecraft:textures/blocks/blockCedarLeaves.png
+2014-03-29 13:47:15 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_203_explorecraft:textures/blocks/blockCedarSapling.png
+2014-03-29 13:47:15 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_201_explorecraft:textures/blocks/blockCedarLog.png
+2014-03-29 13:47:15 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-03-29 13:47:15 [CLIENT] [SEVERE] @ Post startup
+2014-03-29 13:47:15 [CLIENT] [SEVERE] 1281: Invalid value
+2014-03-29 13:47:18 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-29 13:48:51 [CLIENT] [INFO] [CHAT] Given Speed (ID 1) * 200 to Player762 for 200 seconds
+2014-03-29 13:51:17 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 459 to go!
+2014-03-29 13:51:26 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 959 to go!
+2014-03-29 13:52:20 [CLIENT] [INFO] [CHAT] Given Speed (ID 1) * 200 to Player762 for 200 seconds
+2014-03-29 13:52:52 [CLIENT] [INFO] Stopping!
+2014-03-29 13:55:44 [CLIENT] [INFO] Setting user: Player841
+2014-03-29 13:55:45 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-29 13:55:46 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-29 13:55:50 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 13:55:52 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 13:55:52 [CLIENT] [SEVERE] Using missing texture, unable to load: explorecraft:textures/blocks/blockCedarLeaves.png
+2014-03-29 13:55:52 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_203_explorecraft:textures/blocks/blockCedarSapling.png
+2014-03-29 13:55:52 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_201_explorecraft:textures/blocks/blockCedarLog.png
+2014-03-29 13:55:52 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-03-29 13:55:52 [CLIENT] [SEVERE] @ Post startup
+2014-03-29 13:55:52 [CLIENT] [SEVERE] 1281: Invalid value
+2014-03-29 13:55:53 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-29 13:57:23 [CLIENT] [INFO] [CHAT] Teleported Player841 to -166.9503317076622,107.0,481.7516947842312
+2014-03-29 13:57:27 [CLIENT] [INFO] [CHAT] Teleported Player841 to -166.9503317076622,68.0,483.7516947842312
+2014-03-29 13:57:27 [CLIENT] [INFO] [CHAT] Teleported Player841 to -166.9503317076622,68.0,485.7516947842312
+2014-03-29 13:57:28 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,68.0,487.7516947842312
+2014-03-29 13:57:43 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,489.7516947842312
+2014-03-29 13:57:44 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,491.7516947842312
+2014-03-29 13:57:44 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,493.7516947842312
+2014-03-29 13:57:44 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,495.7516947842312
+2014-03-29 13:57:45 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,497.7516947842312
+2014-03-29 13:57:45 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,499.7516947842312
+2014-03-29 13:57:45 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,501.7516947842312
+2014-03-29 13:57:45 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,503.7516947842312
+2014-03-29 13:57:46 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,505.7516947842312
+2014-03-29 13:57:46 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,507.7516947842312
+2014-03-29 13:57:46 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,509.7516947842312
+2014-03-29 13:57:51 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,529.7516947842312
+2014-03-29 13:57:52 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,549.7516947842312
+2014-03-29 13:57:52 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,569.7516947842312
+2014-03-29 13:57:53 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,589.7516947842312
+2014-03-29 13:57:53 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,609.7516947842312
+2014-03-29 13:57:54 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,629.7516947842312
+2014-03-29 13:57:54 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,649.7516947842312
+2014-03-29 13:57:55 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,669.7516947842312
+2014-03-29 13:57:55 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,689.7516947842312
+2014-03-29 13:57:56 [CLIENT] [INFO] [CHAT] Teleported Player841 to -167.35102046617214,108.87805220768371,709.7516947842312
+2014-03-29 14:00:03 [CLIENT] [INFO] Stopping!
+2014-03-29 14:01:45 [CLIENT] [INFO] Setting user: Player25
+2014-03-29 14:01:47 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-29 14:01:47 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-29 14:01:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 14:01:54 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 14:01:54 [CLIENT] [SEVERE] Using missing texture, unable to load: explorecraft:textures/blocks/blockCedarLeaves.png
+2014-03-29 14:01:54 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_203_explorecraft:textures/blocks/blockCedarSapling.png
+2014-03-29 14:01:54 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_201_explorecraft:textures/blocks/blockCedarLog.png
+2014-03-29 14:01:54 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-03-29 14:01:54 [CLIENT] [SEVERE] @ Post startup
+2014-03-29 14:01:54 [CLIENT] [SEVERE] 1281: Invalid value
+2014-03-29 14:01:55 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-29 14:04:54 [CLIENT] [INFO] Stopping!
+2014-03-29 14:16:19 [CLIENT] [INFO] Setting user: Player569
+2014-03-29 14:16:20 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-29 14:16:20 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-29 14:16:24 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 14:16:26 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ExploreCraft
+2014-03-29 14:16:26 [CLIENT] [SEVERE] Using missing texture, unable to load: explorecraft:textures/blocks/blockCedarLeaves.png
+2014-03-29 14:16:27 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_203_explorecraft:textures/blocks/blockCedarSapling.png
+2014-03-29 14:16:27 [CLIENT] [SEVERE] Using missing texture, unable to load: missing_icon_tile_201_explorecraft:textures/blocks/blockCedarLog.png
+2014-03-29 14:16:27 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-03-29 14:16:27 [CLIENT] [SEVERE] @ Post startup
+2014-03-29 14:16:27 [CLIENT] [SEVERE] 1281: Invalid value
+2014-03-29 14:16:28 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-29 14:20:31 [CLIENT] [INFO] [CHAT] Given Speed (ID 1) * 200 to Player569 for 200 seconds
+2014-03-29 14:21:49 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 30 to go!
+2014-03-29 14:21:49 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 566 to go!
+2014-03-29 14:24:12 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 501 to go!
+2014-03-29 14:27:14 [CLIENT] [INFO] [CHAT] Set the time to 0
+2014-03-29 14:27:28 [CLIENT] [INFO] [CHAT] Set the time to 6000
+2014-03-29 14:31:30 [CLIENT] [INFO] Stopping!

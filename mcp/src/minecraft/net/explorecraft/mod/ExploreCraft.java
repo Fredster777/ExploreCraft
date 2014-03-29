@@ -1,10 +1,12 @@
 package net.explorecraft.mod;
 
+import net.explorecraft.mod.biome.BiomeForestCanopy;
+import net.explorecraft.mod.biome.BiomeForestGiant;
 import net.explorecraft.mod.biome.BiomeForestMuddyCedar;
 import net.explorecraft.mod.block.BlockCedarLeaves;
-import net.explorecraft.mod.block.BlockCedarLog;
 import net.explorecraft.mod.block.BlockCedarSapling;
 import net.explorecraft.mod.block.BlockMud;
+import net.explorecraft.mod.blocks.BlockCedarLog;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.world.biome.BiomeGenBase;
@@ -25,14 +27,15 @@ public class ExploreCraft {
 	
 	//Define blocks
 	public static Block blockMud; 
-	public static Block blockCedarLog;
-	public static Block blockCedarLeaves;
-	public static Block blockCedarSapling;
+	
 	
 	//Define items
 	
 	//Define biomes
 	public static BiomeGenBase forestMuddyCedar;
+	public static BiomeGenBase forestGiant;
+	public static BiomeGenBase forestCanopy;
+	
 	
 	//Define dimensions
 	
@@ -41,32 +44,30 @@ public class ExploreCraft {
 		
 		//Settings for blocks
 		blockMud = new BlockMud(200, Material.ground).setUnlocalizedName("ExploreCraft:blockMud");
-		blockCedarLog = new BlockCedarLog(201, Material.wood).setUnlocalizedName("ExploreCraft:blockCedarLog");
-		blockCedarLeaves = new BlockCedarLeaves(202, Material.leaves).setUnlocalizedName("ExploreCraft:blockCedarLeaves");
-		blockCedarSapling = new BlockCedarSapling(203, Material.tnt).setUnlocalizedName("ExploreCraft:blockCedarSapling");
+		
 		
 		//Settings for items
 		
 		//Settings for biomes
 		forestMuddyCedar = new BiomeForestMuddyCedar(100).setBiomeName("Muddy Forest").setMinMaxHeight(0.3F, 0.6F);
+		forestGiant = new BiomeForestGiant(101).setBiomeName("Giant Forest").setMinMaxHeight(0.3F, 0.35F);
+		forestCanopy = new BiomeForestCanopy(102).setBiomeName("Canopy").setMinMaxHeight(1.8F, 2.0F);
 		
 		//Register blocks
 		GameRegistry.registerBlock(blockMud, "blockMud");
 		LanguageRegistry.addName(blockMud, "Mud");
 		
-		GameRegistry.registerBlock(blockCedarLog, "blockCedarLog");
-		LanguageRegistry.addName(blockCedarLog, "Cedar Log");
-		
-		GameRegistry.registerBlock(blockCedarLeaves, "blockCedarLeaves");
-		LanguageRegistry.addName(blockCedarLeaves, "Cedar Leaves");
-		
-		GameRegistry.registerBlock(blockCedarSapling, "blockCedarSapling");
-		LanguageRegistry.addName(blockCedarSapling, "Cedar Sapling");
 		
 		//Register items
 		
 		//Register biomes
 		GameRegistry.addBiome(forestMuddyCedar);
+		GameRegistry.addBiome(forestGiant);
+		GameRegistry.addBiome(forestCanopy);
+		
+		//Register World Generator (used for generating ores)
+		GameRegistry.registerWorldGenerator(new WorldGeneratorExploreCraft());
+		
 		
 	}
 
